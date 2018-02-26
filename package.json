@@ -1,0 +1,19 @@
+{
+  "name": "red-rings-clock",
+  "version": "1.0.0",
+  "description": "Toy for demonstration purposes",
+  "main": "backend.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/shimaore/red-rings-clock"
+  },
+  "author": "",
+  "license": "Unlicense",
+  "dependencies": {
+    "most": "^1.7.3",
+    "red-rings": "^1.1.0"
+  }
+}
